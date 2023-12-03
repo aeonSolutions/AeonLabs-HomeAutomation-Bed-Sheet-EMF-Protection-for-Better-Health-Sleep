@@ -33,7 +33,7 @@ This smart device is intended to be installed and fixed into a bed sheet made fo
 
 <p align="center">
   <a href="https://s.click.aliexpress.com/e/_Dexysod" target="_blank">
-    <img height="150" src="https://github.com/aeonSolutions/AeonLabs-Home-Auitomation-Pillowcase-EMF-Protection-for-Better-Health-Sleep/blob/main/media/radiation_pillow.png">
+    <img height="150" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Bed-Sheet-EMF-Protection-for-Better-Health-Sleep/blob/main/media/radiation_bed_sheet.png">
   </a>
 </p>
 
