@@ -29,7 +29,7 @@ Last update: 03-12-2023
 nowadays many are sensitive to electromagnetic frequency radiation mainly due to excessive exposure above natural and healthy limits. There are many solutions to mitigate exposture to this kind of radiation however none have the ability to collecect EMF energy values direclty from a window or access door to a balcony.
 
 ## The idea
-This smart device is intended to be installed and fixed into a bed sheet made for electromagnetic (EM) radiation detection. It has the main ability to collect EM sensor data from the bed sheet itself while you sleep at night and send it to a public data repository, for instance a #dataverse (see www.dataverse.org). Anyone can [buy the pillow on Aliexpress](https://s.click.aliexpress.com/e/_Dexysod).
+This smart device is intended to be installed and fixed into a bed sheet made for electromagnetic (EM) radiation detection. It has the main ability to collect EM sensor data from the bed sheet itself while you sleep at night and send it to a public data repository, for instance a #dataverse (see www.dataverse.org). Anyone can buy the bed sheet on Aliexpress [here](https://s.click.aliexpress.com/e/_DCPFRmN) and [here](https://s.click.aliexpress.com/e/_DBDR6k9).
 
 <p align="center">
   <a href="https://s.click.aliexpress.com/e/_Dexysod" target="_blank">
