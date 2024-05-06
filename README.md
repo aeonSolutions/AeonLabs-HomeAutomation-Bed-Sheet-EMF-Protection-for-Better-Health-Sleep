@@ -58,7 +58,7 @@ Known open data repositories partially compatible with these smart devices:
 <br>
 
 <p align="center">
-    <img height="200px" src="https://github.com/aeonSolutions/Aeonlabs-Home-Automation-Smart-EMF-Shield-Curtain-for-Windows-and-Balconies/blob/main/media/pcb_front.png">
+    <img height="200px" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Bed-Sheet-EMF-Protection-for-Better-Health-Sleep/blob/main/media/sleep_better_at_night_pcb_front.jpg">
 </p>
 
 <br>
