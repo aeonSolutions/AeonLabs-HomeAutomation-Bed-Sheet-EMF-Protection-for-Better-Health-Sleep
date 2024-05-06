@@ -87,15 +87,9 @@ Known open data repositories partially compatible with these smart devices:
 
 ## What one additionally needs
 
-- [Radiation Shield Curtain](https://s.click.aliexpress.com/e/_DC76f4j) or any other conducting material or conductive glass window
-  <p align="center"> 
- <a href="https://s.click.aliexpress.com/e/_DC76f4j" target="_blank">
-     <img height="200px" src="http://ae01.alicdn.com/kf/H7ce656812a1349839703e4e40070a3d1k.jpg_350x350.jpg" />
-  </a>
-</p>
+- [Sleep better, Antimicrobial Fabric, Conductive Grounding earthing bed sheet](https://s.click.aliexpress.com/e/_Dn3o1OT)
+- [LK-R37 Enclosure Box 70x70x15mm](https://s.click.aliexpress.com/e/_De0ixOx)
 
-- [4.2V Lipo Battery](https://s.click.aliexpress.com/e/_Dl3iRpl)
-  
 <br />
 <br />
 
