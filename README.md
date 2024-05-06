@@ -64,6 +64,12 @@ Known open data repositories partially compatible with these smart devices:
     <img height="300px" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Bed-Sheet-EMF-Protection-for-Better-Health-Sleep/blob/main/media/sleep_better_at_night_pcb_front.jpg">
 </p>
 
+<p align="center">
+<strong> <a href="https://aeonsolutions.github.io/sponsor/em_radiation_bed/">Interactive view of the PCB Layout</a> </strong> &nbsp;
+  <strong> <a href="https://aeonsolutions.github.io/sponsor/em_radiation_bed//circuit_schematic.html">Interactive view of the circuit schematic</a> </strong> <br>
+ <sup>Click to view the latest revision</sup>
+</p>
+
 <br>
 <br>
 
