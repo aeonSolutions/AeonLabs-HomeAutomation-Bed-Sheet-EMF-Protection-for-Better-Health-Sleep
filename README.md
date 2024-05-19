@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/general-guide-mental-health-students.jpg" height="300">
+   <img width="100%" src="https://github.com/aeonSolutions/AeonLabs-HomeAutomation-Bed-Sheet-EMF-Protection-for-Better-Health-Sleep/blob/main/media/sleep_better_at_night_banner.jpg" >
 </p>
 
 [![](https://dcbadge.vercel.app/api/server/hw3j3RwfJf) ](https://discord.gg/hw3j3RwfJf)
