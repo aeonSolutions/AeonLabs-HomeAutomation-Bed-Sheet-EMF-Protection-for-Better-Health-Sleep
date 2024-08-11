@@ -26,6 +26,8 @@ partially sponsored by <br>
     </a>
 </p>
 
+⚠️ **Start by reading the documentation first**. [Click here to open it](https://github.com/aeonSolutions/AeonLabs-Safety-Health/wiki) 
+
 # Bed Sheet EMF Protection for Better Health &amp; Sleep
 <p align="left"> 
  <img height="15" src="https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png"> 
